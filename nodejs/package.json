@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "into about nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bharani",
+  "license": "ISC",
+  "dependencies": {
+    "marvel-characters": "^1.0.3"
+  }
+}
